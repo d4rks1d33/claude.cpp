@@ -200,7 +200,7 @@ Common cause: port 4000 already in use. Kill old processes: `pkill -f litellm`.
 
 Run this once to clear any stored API key helper:
 ```bash
-export ANTHROPIC_API_KEY='your_api_key_here'
+export ANTHROPIC_API_KEY=''
 ```
 Then relaunch via `launcher.sh`.
 
