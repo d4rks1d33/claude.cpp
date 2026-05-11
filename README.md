@@ -50,7 +50,7 @@ Claude Code thinks it's talking to Anthropic. It's actually talking to your GPU.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/claude.cpp
+git clone https://github.com/d4rks1d33/claude.cpp
 cd claude.cpp
 
 # 2. Run the installer
